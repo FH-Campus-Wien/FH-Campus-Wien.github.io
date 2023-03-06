@@ -12,25 +12,36 @@
     
     
       <item>
-        <title>Sample blog post</title>
+        <title>Die Rätsel</title>
         <description>
-          Each post also has a subtitle - 
-          This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it’ll teach you how to transform regular text into bold/italics/headings/tables/etc. Here is some bold text Here is a secondary...
+          Wir zeigen hier exemplarisch ein Rätsel - 
+          In der Escape Room Applikationen erscheint eine Postkarte von Wien und darunter zwei Eingabefelder. Zusätzlich erhalten die Studierenden eine ausgedruckte Karte von Wien mit dem Hinweis Lineal und Stift bereitzuhalten. Wer nicht weiter weiß, dem stehen Hinweise in der Moodle Plattform, nach der Lösung von kleinen Java Quizzes, zur Verfügung....
         </description>
-        <pubDate>Fri, 28 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020-02-28-test-markdown/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-28-test-markdown/</guid>
+        <pubDate>Sun, 05 Mar 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023-03-05-riddles/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-03-05-riddles/</guid>
       </item>
     
       <item>
-        <title>Flake it till you make it</title>
+        <title>Umsetzung</title>
         <description>
-          Excerpt from Soulshaping by Jeff Brown - 
-          Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+          Wie wurde der digitale Escape Room umgesetzt? - 
+          In unserem Fall ist die Lerntechnologie der digitale Escape Room. Und dieser wiederum hat die Förderung der Kenntnisse zur Erstellung von Programmen mit der Programmiersprache Java zum Ziel. Der Digital Escape Room wurde von uns programmiert und umfasst folgende Komponenten: Frontend Applikation Dabei handelt es sich um eine Java-basierte graphische...
         </description>
-        <pubDate>Wed, 26 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020-02-26-flake-it-till-you-make-it/</guid>
+        <pubDate>Sat, 04 Mar 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023-03-04-implementation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-03-04-implementation/</guid>
+      </item>
+    
+      <item>
+        <title>Ausgangslage und Ziele</title>
+        <description>
+          Wie lässt sich Lehre spannend und abwechslungsreich gestalten? - 
+          Programmierung ist ein fundamentales Fach im Lehrplan von Computer Science and Digital Communications (CSDC), da Studierende die zugrundeliegenden Konzepte verstehen müssen, um fortgeschrittene Themen der Informatik zu erfassen. Dennoch führen die komplexen und abstrakten Konzepte, sowie die steile Lernkurve der Programmierung oft zum Verlust der Motivation. Weiters fällt es den...
+        </description>
+        <pubDate>Wed, 01 Mar 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2023-03-01-objectives/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023-03-01-objectives/</guid>
       </item>
     
   </channel>
